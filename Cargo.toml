@@ -1,0 +1,4 @@
+[package]
+name = "vec_deque_e45226"
+version = "0.0.0"
+edition = "2021"
